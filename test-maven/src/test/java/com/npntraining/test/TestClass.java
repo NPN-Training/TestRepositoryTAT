@@ -1,8 +1,10 @@
 package com.npntraining.test;
 
+import org.testng.annotations.Test;
+
 public class TestClass {
-	
-	public static void main(String[] args) {
+	@Test
+	public static void test() {
 		System.out.println("Hello this is test class");
 	}
 
