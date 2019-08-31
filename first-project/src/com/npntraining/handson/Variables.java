@@ -1,4 +1,4 @@
-package com.npntraining.handson;
+//package com.npntraining.handson;
 
 public class Variables {
 	static int j;
